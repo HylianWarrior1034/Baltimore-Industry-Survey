@@ -24,4 +24,4 @@ The next step is scaling up the app to more industries & collecting real data in
 
 Go to https://dcce-192-12-14-1.ngrok.io/ and open on Incognito Mode. Ngrok was used to host the localhost onto a server, so to avoid security, opening on Incognito mode is necessary.
 
-TO run on your own: download pandas, plotly, plotly.express, dash, dash bootstrap componenents, and dash bootstrap templates. Run dash1real.py.
+To run on your own: download pandas, plotly, plotly.express, dash, dash bootstrap componenents, and dash bootstrap templates. Run dash1real.py.
